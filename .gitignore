@@ -33,3 +33,6 @@ build/
 .vscode/
 *.properties
 
+
+### Añadir el application properties ###
+*/properties
